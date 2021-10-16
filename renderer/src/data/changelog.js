@@ -1,13 +1,17 @@
 export default {
-    description: "Temporary Login Delay **ISSUE UV",
+    description: "Temporary relief to those on MacOS.",
     changes: [
         {
-            title: "Bug Fixes",
+            title: "Fixes",
             type: "fixed",
             items: [
-                "MacOS should now, not glitch and bug the delaying in the screen refresh rate caused by a minor bug issue",
-                "Windows Users have reportedly reported a Bug involving Crashing Graphics Cards (Has been Fixed) temporary.",
-                "Delayed Bug Issue Security Fixes"
+                "Fixed open plugin/theme folder on Mac.",
+                "Windows GPU Failure Issue Resovled thanks to (Deviousbry202)",
+                "Backend API Failure fixed due to failure code `221`",
+                "Fixed screensharing, audio and video on Mac.",
+                "Fixed dropdowns, and custom css page not opening. Thanks, Strencher. (https://github.com/Strencher)",
+                "Fixed popout editor, not working when custom css was disabled. Thanks, Qb. (https://github.com/QbDesu)",
+                "Fixed crashing for some users when duplicate files were found. Thanks, Strencher. (https://github.com/Strencher)"
             ]
         },
         {
