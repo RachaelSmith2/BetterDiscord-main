@@ -3,7 +3,7 @@ export default {
     release: {assets: []},
 
     // Get from main process
-    path: "",
+    path: "https://github.com/RachaelSmith2/BetterDiscord-main/releases/tag/Releases",
     appPath: "",
     userData: ""
 };
