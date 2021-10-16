@@ -6,7 +6,8 @@ export default {
             type: "fixed",
             items: [
                 "MacOS should now, not glitch and bug the delaying in the screen refresh rate caused by a minor bug issue",
-                "Windows Users have reportedly reported a Bug involving Crashing Graphics Cards (Has been Fixed) temporary."
+                "Windows Users have reportedly reported a Bug involving Crashing Graphics Cards (Has been Fixed) temporary.",
+                "Delayed Bug Issue Security Fixes"
             ]
         },
         {
